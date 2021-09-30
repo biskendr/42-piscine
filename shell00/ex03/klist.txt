@@ -1,0 +1,4 @@
+Credentials cache: API:A1598A94-633C-4075-A7B2-9D8CF13BC537
+        Principal: biskende@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
